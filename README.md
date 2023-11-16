@@ -11,6 +11,8 @@ Make sure you have the following dependencies installed before running the code:
 - pandas
 - numpy
 - scikit-learn
+- Matplotlib.pyplot
+
 
 You can install them using:
 
