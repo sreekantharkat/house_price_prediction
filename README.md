@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting house prices using machine learning techniques. It includes data preprocessing, feature selection, model training, and evaluation. Three regression models (Linear Regression) are implemented and compared.
+This project focuses on predicting house prices using machine learning techniques. It includes data preprocessing, feature selection, model training, and evaluation. Three regression models (XGBOOST Regression) are implemented and compared.
 
 ## Dependencies
 
